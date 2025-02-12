@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(243, 210, 121);
+
+}
+
+.container-corpo{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+
+}
